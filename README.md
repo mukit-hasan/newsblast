@@ -18,13 +18,15 @@ To set up the project locally using Docker, follow these steps:
 **2. Setup your smpt mail service:** <br>
 on main/host_mail.json folder<br>
 
-```{  
+```
+{  
     "name": "yourname",
     "email": "you@mail.com",
     "password": "yourpassword",
     "host": "smtp.gmail.com",
     "port": "587"
-}```
+}
+```
 
 change yourname with your name<br>
 change you@mail.com with your Email<br>
