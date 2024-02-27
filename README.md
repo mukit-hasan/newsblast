@@ -40,7 +40,7 @@ change port number with the port you like to change with,<br>
 ``    #Create a superuser (optional)``<br>
 ``docker-compose exec web python manage.py createsuperuser``<br>
 
-**4. APis **
+**4. APis:** <br>
 In this app you can find only one api point
 ``http://localhost:8000/api/newsletter/ ``
 using this endpoin you can subscribe and Unsubscribe to the newsletter <br> 
