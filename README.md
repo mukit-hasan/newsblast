@@ -12,8 +12,8 @@ This repository contains a Django project for a newsletter application. Users ca
 To set up the project locally using Docker, follow these steps:
 
 **1. Clone the repository:**<br>
-   ``git clone https://github.com/your-username/django-newsletter-app.git``<br>
-   ``cd django-newsletter-app``<br>
+   ``git clone https://github.com/mukit-hasan/newsblaster.git``<br>
+   ``cd newsblaster``<br>
 
 **2. Setup your smpt mail service:** <br>
 on main/host_mail.json folder<br>
